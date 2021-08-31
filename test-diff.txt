@@ -10,3 +10,6 @@ Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To github.com:YISA-YZX/YZX-Store.git
 50ec762..6db670d  master -> master
+
+在远程仓库添加内容：123456
+
