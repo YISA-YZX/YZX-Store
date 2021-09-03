@@ -1,4 +1,0 @@
-测试reset恢复版本
-
-测试checkout撤销
-
