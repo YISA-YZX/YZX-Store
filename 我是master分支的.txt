@@ -1,2 +1,1 @@
-我是在master分支添加的内容123456
-master添加内容
+测试checkout撤销
