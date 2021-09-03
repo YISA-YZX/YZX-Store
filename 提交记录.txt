@@ -3,6 +3,10 @@
 3.master添加
 4.remote中添加
 5.remote中添加
+<<<<<<< HEAD
 
 7.master中添加，看会不会冲突
+=======
+6.dev添加到master分支
+>>>>>>> dev
 
